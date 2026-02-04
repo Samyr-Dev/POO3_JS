@@ -1,0 +1,12 @@
+{
+  "name": "index.html",
+  "version": "11.1.0",
+  "description": "Novo documento",
+  "license": "ISC",
+  "author": "Samyr",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
