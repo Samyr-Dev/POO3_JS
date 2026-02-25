@@ -112,3 +112,11 @@ console.log(texto) //[object Object]
 console.log(JSON.parse(objeto)) //convertendo string para objeto, mas como a string não é um JSON válido, retorna um erro.
     
 */
+
+// let x = [1, 2, 3, 4, 5]
+// console.log("Value of x position 0:", x[0]) // Output: 1
+// console.log("Value of x position 1:", x[1]) // Output: 2
+// console.log("Value of x position 2:", x[2]) // Output: 3
+// console.log("Value of x position 3:", x[3]) // Output: 4
+// console.log("Value of x position 4:", x[4]) // Output: 5
+
